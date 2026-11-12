@@ -2,8 +2,6 @@
 
 ## About Me
 
-# Hi, I'm [Your Name] 👋
-
 ## Data Analyst | SQL | Python | Power BI
 
 I am a data professional passionate about transforming raw data into actionable business insights. I leverage data analysis, visualization, and reporting techniques to support data-driven decision-making and solve real-world business problems.
