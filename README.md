@@ -9,8 +9,9 @@
 I am a data professional passionate about transforming raw data into actionable business insights. I leverage data analysis, visualization, and reporting techniques to support data-driven decision-making and solve real-world business problems.
 
 
-| column 1 | column 2 |
-|
+| column1 | column2 |
+|----|----|
+| Row1 | Row2 |
 
 
 
