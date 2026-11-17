@@ -77,17 +77,15 @@ Developed solutions using joins, subqueries, CTEs, window functions, and aggrega
 ### Current Focus
 
 - Advanced SQL
-- Power BI Data Modeling
 - Python for Data Analytics
-- Business Intelligence Solutions
-- Data Storytelling
+- Power BI Data Modeling 
+
 
 ### Let's Connect
 
 - LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/[username]
+- GitHub: https://github.com/edemfiam-gif
 
----
 
 > "Without data, you're just another person with an opinion." – W. Edwards Deming
 
